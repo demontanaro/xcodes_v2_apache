@@ -5,6 +5,6 @@ This folder include:
 - opcache.a
 - ioncube_loader_lin_7.4_10.4.0_beta2.so
 
-Necesary to run the Panel in PHP 7.4.4, replace this files in your PHP lib folder:
+Necesary to run the Panel in PHP 7.4, replace (or put) this files in your PHP lib folder:
 
 /usr/lib/php/20190902
