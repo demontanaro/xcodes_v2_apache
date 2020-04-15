@@ -5,4 +5,6 @@ XtreamUI with necessary modifications for run in apache and MySQL intalled from 
 
 Runs in Debian or Ubuntu. 
 
+Only for streaming in m3u8 and ts, NOT work with rtmp push or pull.
+
 
