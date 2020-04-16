@@ -1,0 +1,1323 @@
+[http @ 0x5358a00] The "user-agent" option is deprecated: use the "user_agent" option instead
+[h264 @ 0x538a3c0] Increasing reorder buffer to 2
+[tcp @ 0x5371040] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x5527d80] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x535e900] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x55ab340] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x5384980] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x55ad440] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x54653c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x5370600] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x55b7680] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x5371f80] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x53e0e40] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x5371f80] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x5569880] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x53ce040] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x5569940] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x55ab340] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x535f480] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x556a840] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x53d9080] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x55ab340] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x5361d80] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x55b7c00] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x5362580] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x537aac0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x54a5d80] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x55adac0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x535cc80] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x5360f40] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x53ce040] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x55ab340] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x5371040] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x535ed40] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x53d1380] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x535d780] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x53d9080] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x53d9080] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x53d9080] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x55abb40] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x5361540] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x55ada00] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x5371040] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x537bb40] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x537b0c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x5527d80] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x53d9080] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x55b28c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x55b43c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x535d780] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x5462000] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x537bb40] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x535df00] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x55b1dc0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x5465400] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x5370600] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x55b1840] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x55ae480] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x55ae480] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x55add00] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x537c580] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x55646c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x53dd980] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x5464880] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x537b0c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x5360f40] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x5360f40] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x53d9080] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x55afd40] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x55b0100] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[hls,applehttp @ 0x5357c40] Failed to open segment 764392 of playlist 0
+    Last message repeated 1 times
+[tcp @ 0x53df440] Connection to tcp://127.0.0.1:80 failed: Connection refused
+[hls,applehttp @ 0x5357c40] Failed to open segment 764392 of playlist 0
+[tcp @ 0x5464340] Connection to tcp://127.0.0.1:80 failed: Connection refused
+[hls,applehttp @ 0x5357c40] Failed to open segment 764392 of playlist 0
+[tcp @ 0x5371040] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x55adc80] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x53dd540] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x55b5540] Connection to tcp://127.0.0.1:80 failed: Connection refused
+[hls,applehttp @ 0x5357c40] Failed to reload playlist 0
+[tcp @ 0x53de880] Connection to tcp://127.0.0.1:80 failed: Connection refused
+[hls,applehttp @ 0x5357c40] Failed to reload playlist 0
+[http @ 0x3843a00] The "user-agent" option is deprecated: use the "user_agent" option instead
+[tcp @ 0x38435c0] Connection to tcp://127.0.0.1:80 failed: Connection refused
+http://127.0.0.1/LIVE/H01/stream/102/master.m3u8: Connection refused
+[http @ 0x55a4a00] The "user-agent" option is deprecated: use the "user_agent" option instead
+[tcp @ 0x55a45c0] Connection to tcp://127.0.0.1:80 failed: Connection refused
+http://127.0.0.1/LIVE/H01/stream/102/master.m3u8: Connection refused
+[http @ 0x3eeaa00] The "user-agent" option is deprecated: use the "user_agent" option instead
+[tcp @ 0x3eea5c0] Connection to tcp://127.0.0.1:80 failed: Connection refused
+http://127.0.0.1/LIVE/H01/stream/102/master.m3u8: Connection refused
+[http @ 0x47d1a00] The "user-agent" option is deprecated: use the "user_agent" option instead
+[tcp @ 0x47d15c0] Connection to tcp://127.0.0.1:80 failed: Connection refused
+http://127.0.0.1/LIVE/H01/stream/102/master.m3u8: Connection refused
+[http @ 0x39d3a00] The "user-agent" option is deprecated: use the "user_agent" option instead
+[tcp @ 0x39d35c0] Connection to tcp://127.0.0.1:80 failed: Connection refused
+http://127.0.0.1/LIVE/H01/stream/102/master.m3u8: Connection refused
+[http @ 0x4701a00] The "user-agent" option is deprecated: use the "user_agent" option instead
+[h264 @ 0x47333c0] Increasing reorder buffer to 1
+[h264 @ 0x47333c0] Increasing reorder buffer to 2
+[tcp @ 0x497b180] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4980600] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x480c640] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x48bd000] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4700980] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x48fd900] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x497e680] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x471b7c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x497b540] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4980040] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x497d0c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x497b580] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47076c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x497c940] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x471af80] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4706f00] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x497f200] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x48bd000] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4725140] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x471b7c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4783e40] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47083c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x497c600] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x493bec0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x480e080] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x472da40] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x493b840] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x493b840] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4980600] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4715640] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4715640] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4980600] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47cf300] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x493b7c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x493bec0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x493bec0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x471b7c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x497e100] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x471af80] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4788240] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x497f6c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4786280] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47cec00] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47cae00] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4786280] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x497a880] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x470a8c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x487c580] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x497b980] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[hls,applehttp @ 0x4700c40] Failed to open segment 764866 of playlist 0
+    Last message repeated 1 times
+[tcp @ 0x493bec0] Connection to tcp://127.0.0.1:80 failed: Connection refused
+[hls,applehttp @ 0x4700c40] Failed to open segment 764866 of playlist 0
+[tcp @ 0x493bec0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x497b980] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4723f40] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47cb640] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47886c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4786280] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4783e40] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4785680] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x497b380] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4774ac0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4980600] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x497b380] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4786280] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x497b980] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4766400] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x48bd000] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x498a100] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x471b7c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4774b00] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x497b980] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4785680] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4723f40] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x497b980] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x471b7c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4786280] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x493bec0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4766400] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4766400] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x498a100] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x48bd000] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4980600] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4879200] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4989280] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47cc980] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47cc980] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4786280] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x497b980] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4766400] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x49823c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47cc980] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4723f40] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x49823c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47cb680] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x49823c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4967940] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x48bd000] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x49888c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4983100] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x497b980] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x472bb40] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4983100] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47277c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47162c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x472bb40] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x471b7c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47cdf00] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4766400] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4785680] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4785680] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4985400] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4985400] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4986e80] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4983100] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x49888c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x49888c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4785680] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4786280] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4785680] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4988c00] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4785680] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x493bec0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x492bf00] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x492df80] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x49823c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x497b980] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4934e80] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4879200] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47162c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4785680] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4723f40] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x49885c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47cc980] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4939580] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4931d00] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x472bb40] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x49873c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x497b980] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4934e80] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47162c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47886c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4936e40] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4932d80] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x472bb40] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x492bf00] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4786280] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4939580] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4986780] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4766400] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x472c540] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4985400] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x472c540] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4723f40] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4932840] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x49885c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x492bf00] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x49858c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x492bf00] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x49888c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4766400] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4986e80] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x497b980] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4929ec0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x48e9600] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4934b80] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47162c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4879200] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x48e8780] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x49366c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4930280] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4932d80] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4766400] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x48e9600] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x48ed500] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4723f40] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x48f1900] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x49885c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47277c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4766400] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4931580] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4936e40] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4932840] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47cc980] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4785680] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4934b80] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x472c540] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x48e8780] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4986e80] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4928540] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x497b980] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x492bf00] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47277c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47ff180] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4930280] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4806a40] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x497b980] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4929080] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47272c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x48e9600] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x492f140] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4985400] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x472a400] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x49858c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x472c540] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47fec80] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x472a400] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4808b00] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x48e8780] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x48efd40] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47fe580] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47fa5c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4932840] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x492c3c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4934b80] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4786280] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4932840] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x48e9600] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x472c540] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4928540] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4786280] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4785680] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4808400] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x472bb40] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47da740] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4967940] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x48ea2c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x471b7c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4806f80] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4806f80] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x48090c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47e29c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4967940] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47dea80] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47277c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47da740] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47e3cc0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4934b80] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4806f80] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47e29c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47e9240] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4932d80] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x49366c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47e69c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47fa5c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47d7c80] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47da740] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4932d80] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4931d00] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4930280] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4966f80] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4809dc0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47e8640] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4806a40] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x492f140] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4967940] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47dea80] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x472a400] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4727d00] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x472c540] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47de100] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x49366c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4786280] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x471b7c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4942980] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x48f1900] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4930280] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4945780] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4879200] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4986e80] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4967940] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47da740] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x48003c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4932840] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47de100] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x494ed80] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47ecb40] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x48f2540] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47cdf00] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47ff180] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x472c540] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4723f40] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x48eabc0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47dd0c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47e4b40] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x493e540] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4723f40] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47dd0c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4785680] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4932840] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x472bb40] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4934b80] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x49873c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x49823c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47ff480] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x48fadc0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47dea80] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4808400] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4786280] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47ddc00] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47dd0c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47fa5c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x493eec0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x48ed500] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47fc780] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4931d00] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4931d00] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47da740] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47dd0c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4928540] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x472a400] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4879200] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47f7640] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x494a900] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4952300] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x48f5c40] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4850640] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x493bec0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4931d00] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4930280] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47dac40] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47e29c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47e4b40] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4954f80] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47fc780] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47de100] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4852640] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47cff40] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x48e8780] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4808b00] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4956600] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x49873c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47ecb40] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47dea80] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4950cc0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x49888c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x494df80] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4967940] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4954f80] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x48540c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4727d00] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x49366c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x485a100] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x49823c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x48620c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4943d00] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x48e8780] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4959a40] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4966f80] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47da740] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x494bd00] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4928540] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47e8640] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4966f80] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4955e80] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47ff780] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x48634c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x48090c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4929ec0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4859400] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x49873c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x49873c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47f7640] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x494ed80] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47de100] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4959a40] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4946040] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4952300] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47277c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4931580] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47cff40] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x49823c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47fa5c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4808400] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47edcc0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47ff180] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x495d2c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x48634c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47ecb40] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4932d80] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47dc300] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4723f40] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x48090c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x48f1900] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4806a40] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4957d00] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4932d80] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47e8d40] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x495dec0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4809dc0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x494a900] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47efa00] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47272c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x492c3c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47e69c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4966f80] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47da740] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4983100] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4858980] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x486eb40] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47e9240] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4808400] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x49366c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4931580] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x485bd40] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x49366c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x48b32c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x49885c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47e69c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4957d00] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4874d00] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47cdf00] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x472bb40] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4852b40] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4873280] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47fe580] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x49610c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x48b71c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47e1a00] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x48b5640] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47e3cc0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47d0740] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4930280] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x485bd40] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4952300] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4983100] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4931d00] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4955e80] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x48003c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4944fc0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x48710c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4857100] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4870200] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4860c00] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47e9240] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x49366c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47e1a00] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47dea80] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x48b14c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47d7c80] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4985400] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4950cc0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x48ed500] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x48b5340] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x492bf00] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4934e80] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47ff480] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x492bf00] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4804d40] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x48b14c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47dd0c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x48f5c40] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x472bb40] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x48b9040] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x48b5b40] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47162c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4870dc0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47e3cc0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47ddc00] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x48fadc0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47e3cc0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4967940] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47cc980] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x494df80] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47e8d40] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4872480] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x492bf00] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x49888c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47eed40] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x486eb40] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4986e80] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x48ba0c0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47b9c80] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x48f2540] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4809dc0] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47dac40] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x484d240] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4852b40] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x47f7640] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4862b00] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4945780] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4939580] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x497b980] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x48b7b40] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x4872480] Connection to tcp://127.0.0.1:25461 failed: Connection refused
+Failed to open progress URL "http://127.0.0.1:25461/progress.php?stream_id=1": Connection refused
+[tcp @ 0x48b5340] Connection to tcp://127.0.0.1:80 failed: Connection refused
+[hls,applehttp @ 0x4700c40] Failed to open segment 768546 of playlist 0
+[tcp @ 0x4873280] Connection to tcp://127.0.0.1:80 failed: Connection refused
+[hls,applehttp @ 0x4700c40] Failed to open segment 768546 of playlist 0
+[tcp @ 0x4929080] Connection to tcp://127.0.0.1:80 failed: Connection refused
+[hls,applehttp @ 0x4700c40] Failed to open segment 768546 of playlist 0
+[tcp @ 0x4804d40] Connection to tcp://127.0.0.1:80 failed: Connection refused
+[hls,applehttp @ 0x4700c40] Failed to open segment 768546 of playlist 0
+[tcp @ 0x48f1900] Connection to tcp://127.0.0.1:80 failed: Connection refused
+[hls,applehttp @ 0x4700c40] Failed to open segment 768546 of playlist 0
+[tcp @ 0x47e8640] Connection to tcp://127.0.0.1:80 failed: Connection refused
+[hls,applehttp @ 0x4700c40] Failed to open segment 768546 of playlist 0
+[tcp @ 0x4939580] Connection to tcp://127.0.0.1:80 failed: Connection refused
+[hls,applehttp @ 0x4700c40] Failed to open segment 768546 of playlist 0
+[tcp @ 0x48bb640] Connection to tcp://127.0.0.1:80 failed: Connection refused
+[hls,applehttp @ 0x4700c40] Failed to open segment 768546 of playlist 0
+[tcp @ 0x4859400] Connection to tcp://127.0.0.1:80 failed: Connection refused
+[hls,applehttp @ 0x4700c40] Failed to open segment 768546 of playlist 0
+[tcp @ 0x4952300] Connection to tcp://127.0.0.1:80 failed: Connection refused
+[hls,applehttp @ 0x4700c40] Failed to open segment 768546 of playlist 0
+[tcp @ 0x48744c0] Connection to tcp://127.0.0.1:80 failed: Connection refused
+[hls,applehttp @ 0x4700c40] Failed to open segment 768546 of playlist 0
+[tcp @ 0x47277c0] Connection to tcp://127.0.0.1:80 failed: Connection refused
+[hls,applehttp @ 0x4700c40] Failed to open segment 768546 of playlist 0
+[tcp @ 0x47da740] Connection to tcp://127.0.0.1:80 failed: Connection refused
+[hls,applehttp @ 0x4700c40] Failed to open segment 768546 of playlist 0
+[tcp @ 0x48ba0c0] Connection to tcp://127.0.0.1:80 failed: Connection refused
+[hls,applehttp @ 0x4700c40] Failed to open segment 768546 of playlist 0
+[tcp @ 0x48c2c40] Connection to tcp://127.0.0.1:80 failed: Connection refused
+[hls,applehttp @ 0x4700c40] Failed to open segment 768546 of playlist 0
+[tcp @ 0x4945a80] Connection to tcp://127.0.0.1:80 failed: Connection refused
+[hls,applehttp @ 0x4700c40] Failed to open segment 768546 of playlist 0
+[tcp @ 0x484fc80] Connection to tcp://127.0.0.1:80 failed: Connection refused
+[hls,applehttp @ 0x4700c40] Failed to open segment 768546 of playlist 0
+[tcp @ 0x48b9040] Connection to tcp://127.0.0.1:80 failed: Connection refused
+[hls,applehttp @ 0x4700c40] Failed to open segment 768546 of playlist 0
+[tcp @ 0x47c7780] Connection to tcp://127.0.0.1:80 failed: Connection refused
+[hls,applehttp @ 0x4700c40] Failed to reload playlist 0
+[tcp @ 0x48b5640] Connection to tcp://127.0.0.1:80 failed: Connection refused
+[hls,applehttp @ 0x4700c40] Failed to reload playlist 0
+[http @ 0x4945a00] The "user-agent" option is deprecated: use the "user_agent" option instead
+[tcp @ 0x49455c0] Connection to tcp://127.0.0.1:80 failed: Connection refused
+http://127.0.0.1/LIVE/H01/stream/102/master.m3u8: Connection refused
+[http @ 0x3c51a00] The "user-agent" option is deprecated: use the "user_agent" option instead
+[tcp @ 0x3c515c0] Connection to tcp://127.0.0.1:80 failed: Connection refused
+http://127.0.0.1/LIVE/H01/stream/102/master.m3u8: Connection refused
+[http @ 0x54dba00] The "user-agent" option is deprecated: use the "user_agent" option instead
+[tcp @ 0x54db5c0] Connection to tcp://127.0.0.1:80 failed: Connection refused
+http://127.0.0.1/LIVE/H01/stream/102/master.m3u8: Connection refused
+[http @ 0x5295a00] The "user-agent" option is deprecated: use the "user_agent" option instead
+[tcp @ 0x52955c0] Connection to tcp://127.0.0.1:80 failed: Connection refused
+http://127.0.0.1/LIVE/H01/stream/102/master.m3u8: Connection refused
+[http @ 0x3abba00] The "user-agent" option is deprecated: use the "user_agent" option instead
+[tcp @ 0x3abb5c0] Connection to tcp://127.0.0.1:80 failed: Connection refused
+http://127.0.0.1/LIVE/H01/stream/102/master.m3u8: Connection refused
+[http @ 0x3d75a00] The "user-agent" option is deprecated: use the "user_agent" option instead
+[h264 @ 0x3da73c0] Increasing reorder buffer to 2
+[http @ 0x3d7e780] HTTP error 404 Not Found
+[hls,applehttp @ 0x3d74c40] Failed to open segment 768678 of playlist 0
+[http @ 0x3df38c0] HTTP error 404 Not Found
+[hls,applehttp @ 0x3d74c40] Failed to open segment 768678 of playlist 0
+[http @ 0x3da1980] HTTP error 404 Not Found
+[hls,applehttp @ 0x3d74c40] Failed to open segment 768678 of playlist 0
+[http @ 0x3da1980] HTTP error 404 Not Found
+[hls,applehttp @ 0x3d74c40] Failed to open segment 768678 of playlist 0
+[http @ 0x3ed7300] HTTP error 404 Not Found
+[hls,applehttp @ 0x3d74c40] Failed to open segment 768678 of playlist 0
+[http @ 0x3df38c0] HTTP error 404 Not Found
+[hls,applehttp @ 0x3d74c40] Failed to open segment 768678 of playlist 0
+[http @ 0x3da1980] HTTP error 404 Not Found
+[hls,applehttp @ 0x3d74c40] Failed to open segment 768678 of playlist 0
+[http @ 0x3da1980] HTTP error 404 Not Found
+[hls,applehttp @ 0x3d74c40] Failed to open segment 768678 of playlist 0
+[http @ 0x3da1980] HTTP error 404 Not Found
+[hls,applehttp @ 0x3d74c40] Failed to open segment 768678 of playlist 0
+[http @ 0x3da1980] HTTP error 404 Not Found
+[hls,applehttp @ 0x3d74c40] Failed to open segment 768678 of playlist 0
+[http @ 0x3ed7300] HTTP error 404 Not Found
+[hls,applehttp @ 0x3d74c40] Failed to open segment 768678 of playlist 0
+[http @ 0x3ed7300] HTTP error 404 Not Found
+[hls,applehttp @ 0x3d74c40] Failed to open segment 768678 of playlist 0
+[http @ 0x3f58b00] HTTP error 404 Not Found
+[hls,applehttp @ 0x3d74c40] Failed to open segment 768678 of playlist 0
+[http @ 0x3da1980] HTTP error 404 Not Found
+[hls,applehttp @ 0x3d74c40] Failed to open segment 768678 of playlist 0
+[http @ 0x3da1980] HTTP error 404 Not Found
+[hls,applehttp @ 0x3d74c40] Failed to open segment 768678 of playlist 0
+[http @ 0x3da1980] HTTP error 404 Not Found
+[hls,applehttp @ 0x3d74c40] Failed to open segment 768678 of playlist 0
+[http @ 0x3ed7300] HTTP error 404 Not Found
+[hls,applehttp @ 0x3d74c40] Failed to open segment 768678 of playlist 0
+[http @ 0x3da1980] HTTP error 404 Not Found
+[hls,applehttp @ 0x3d74c40] Failed to open segment 768678 of playlist 0
+[http @ 0x3d7f3c0] HTTP error 404 Not Found
+[hls,applehttp @ 0x3d74c40] Failed to open segment 768678 of playlist 0
+[http @ 0x3da1980] HTTP error 404 Not Found
+[hls,applehttp @ 0x3d74c40] Failed to open segment 768678 of playlist 0
+[http @ 0x3da1980] HTTP error 404 Not Found
+[hls,applehttp @ 0x3d74c40] Failed to open segment 768678 of playlist 0
+[http @ 0x3d7e5c0] HTTP error 404 Not Found
+[hls,applehttp @ 0x3d74c40] Failed to reload playlist 0
+[http @ 0x3d7e5c0] HTTP error 404 Not Found
+[hls,applehttp @ 0x3d74c40] Failed to reload playlist 0
+[http @ 0x5670a00] The "user-agent" option is deprecated: use the "user_agent" option instead
+[http @ 0x5670940] HTTP error 404 Not Found
+http://127.0.0.1:25461/LIVE/H01/stream/102/master.m3u8: Server returned 404 Not Found
+[http @ 0x51e3a00] The "user-agent" option is deprecated: use the "user_agent" option instead
+[http @ 0x51e3940] HTTP error 404 Not Found
+http://127.0.0.1:25461/LIVE/H01/stream/102/master.m3u8: Server returned 404 Not Found
+[http @ 0x3980a00] The "user-agent" option is deprecated: use the "user_agent" option instead
+[http @ 0x3980940] HTTP error 404 Not Found
+http://127.0.0.1:25461/LIVE/H01/stream/102/master.m3u8: Server returned 404 Not Found
+[http @ 0x497fa00] The "user-agent" option is deprecated: use the "user_agent" option instead
+[http @ 0x497f940] HTTP error 404 Not Found
+http://127.0.0.1:25461/LIVE/H01/stream/102/master.m3u8: Server returned 404 Not Found
+[http @ 0x38bea00] The "user-agent" option is deprecated: use the "user_agent" option instead
+[http @ 0x38be940] HTTP error 404 Not Found
+http://127.0.0.1:25461/LIVE/H01/stream/102/master.m3u8: Server returned 404 Not Found
+[http @ 0x395da00] The "user-agent" option is deprecated: use the "user_agent" option instead
+[h264 @ 0x398f3c0] Increasing reorder buffer to 2
+[http @ 0x3a6e300] HTTP error 500 Internal Server Error
+[hls,applehttp @ 0x395cc40] Failed to reload playlist 0
+[http @ 0x3a6e300] HTTP error 500 Internal Server Error
+[hls,applehttp @ 0x395cc40] Failed to reload playlist 0
+[http @ 0x3e25a00] The "user-agent" option is deprecated: use the "user_agent" option instead
+[http @ 0x3e25940] HTTP error 500 Internal Server Error
+http://127.0.0.1:25461/LIVE/H01/stream/102/master.m3u8: Server returned 5XX Server Error reply
+[http @ 0x417da00] The "user-agent" option is deprecated: use the "user_agent" option instead
+[http @ 0x417d940] HTTP error 500 Internal Server Error
+http://127.0.0.1:25461/LIVE/H01/stream/102/master.m3u8: Server returned 5XX Server Error reply
+[http @ 0x51a4a00] The "user-agent" option is deprecated: use the "user_agent" option instead
+[http @ 0x51a4940] HTTP error 500 Internal Server Error
+http://127.0.0.1:25461/LIVE/H01/stream/102/master.m3u8: Server returned 5XX Server Error reply
+[http @ 0x4f5ea00] The "user-agent" option is deprecated: use the "user_agent" option instead
+[http @ 0x4f5e940] HTTP error 500 Internal Server Error
+http://127.0.0.1:25461/LIVE/H01/stream/102/master.m3u8: Server returned 5XX Server Error reply
+[http @ 0x549ea00] The "user-agent" option is deprecated: use the "user_agent" option instead
+[http @ 0x549e940] HTTP error 500 Internal Server Error
+http://127.0.0.1:25461/LIVE/H01/stream/102/master.m3u8: Server returned 5XX Server Error reply
+[http @ 0x3c3da00] The "user-agent" option is deprecated: use the "user_agent" option instead
+[h264 @ 0x3c6f3c0] Increasing reorder buffer to 2
+[http @ 0x3e5b200] HTTP error 403 Forbidden
+[hls,applehttp @ 0x3c3cc40] Failed to reload playlist 0
+[http @ 0x3e5b200] HTTP error 403 Forbidden
+[hls,applehttp @ 0x3c3cc40] Failed to reload playlist 0
+[http @ 0x40eca00] The "user-agent" option is deprecated: use the "user_agent" option instead
+[http @ 0x40ec940] HTTP error 403 Forbidden
+http://127.0.0.1:25461/LIVE/H01/stream/102/master.m3u8: Server returned 403 Forbidden (access denied)
+[http @ 0x3b97a00] The "user-agent" option is deprecated: use the "user_agent" option instead
+[http @ 0x3b97940] HTTP error 403 Forbidden
+http://127.0.0.1:25461/LIVE/H01/stream/102/master.m3u8: Server returned 403 Forbidden (access denied)
+[http @ 0x3b84a00] The "user-agent" option is deprecated: use the "user_agent" option instead
+[http @ 0x3b84940] HTTP error 403 Forbidden
+http://127.0.0.1:25461/LIVE/H01/stream/102/master.m3u8: Server returned 403 Forbidden (access denied)
+[http @ 0x5172a00] The "user-agent" option is deprecated: use the "user_agent" option instead
+[http @ 0x5172940] HTTP error 403 Forbidden
+http://127.0.0.1:25461/LIVE/H01/stream/102/master.m3u8: Server returned 403 Forbidden (access denied)
+[http @ 0x3c58a00] The "user-agent" option is deprecated: use the "user_agent" option instead
+[http @ 0x3c58940] HTTP error 403 Forbidden
+http://127.0.0.1:25461/LIVE/H01/stream/102/master.m3u8: Server returned 403 Forbidden (access denied)
+[http @ 0x394aa00] The "user-agent" option is deprecated: use the "user_agent" option instead
+[h264 @ 0x397c3c0] Increasing reorder buffer to 2
+[http @ 0x394f4c0] HTTP error 403 Forbidden
+[hls,applehttp @ 0x3949c40] Failed to reload playlist 0
+[http @ 0x394f4c0] HTTP error 403 Forbidden
+[hls,applehttp @ 0x3949c40] Failed to reload playlist 0
+[http @ 0x469ba00] The "user-agent" option is deprecated: use the "user_agent" option instead
+[http @ 0x469b940] HTTP error 403 Forbidden
+http://127.0.0.1:25461/LIVE/H01/stream/102/master.m3u8: Server returned 403 Forbidden (access denied)
+[http @ 0x4675a00] The "user-agent" option is deprecated: use the "user_agent" option instead
+[http @ 0x4675940] HTTP error 403 Forbidden
+http://127.0.0.1:25461/LIVE/H01/stream/102/master.m3u8: Server returned 403 Forbidden (access denied)
+[http @ 0x5027a00] The "user-agent" option is deprecated: use the "user_agent" option instead
+[http @ 0x5027940] HTTP error 403 Forbidden
+http://127.0.0.1:25461/LIVE/H01/stream/102/master.m3u8: Server returned 403 Forbidden (access denied)
+[http @ 0x3d24a00] The "user-agent" option is deprecated: use the "user_agent" option instead
+[http @ 0x3d24940] HTTP error 403 Forbidden
+http://127.0.0.1:25461/LIVE/H01/stream/102/master.m3u8: Server returned 403 Forbidden (access denied)
+[http @ 0x4b29a00] The "user-agent" option is deprecated: use the "user_agent" option instead
+[http @ 0x4b29940] HTTP error 403 Forbidden
+http://127.0.0.1:25461/LIVE/H01/stream/102/master.m3u8: Server returned 403 Forbidden (access denied)
+[http @ 0x4098a00] The "user-agent" option is deprecated: use the "user_agent" option instead
+[h264 @ 0x40ca3c0] Increasing reorder buffer to 2
